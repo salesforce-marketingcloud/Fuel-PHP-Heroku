@@ -1,0 +1,38 @@
+[
+    {
+        "name": "exacttarget/fuel-sdk-php",
+        "version": "v0.9",
+        "version_normalized": "0.9.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/jdillick/FuelSDK-PHP.git",
+            "reference": "26cf5f9cade51326e0c8cb35964a66654885c8f2"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/jdillick/FuelSDK-PHP/zipball/26cf5f9cade51326e0c8cb35964a66654885c8f2",
+            "reference": "26cf5f9cade51326e0c8cb35964a66654885c8f2",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-openssl": "*",
+            "ext-soap": "*",
+            "php": ">=5.2.3"
+        },
+        "time": "2015-01-29 14:41:59",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "ET_Client.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "ExactTarget Fuel SDK for PHP",
+        "homepage": "https://code.exacttarget.com/apis-sdks/fuel-sdks/"
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "746f0a4d09be80f6751bf8d2074efdfa",
+    "packages": [
+        {
+            "name": "exacttarget/fuel-sdk-php",
+            "version": "v0.9",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jdillick/FuelSDK-PHP.git",
+                "reference": "26cf5f9cade51326e0c8cb35964a66654885c8f2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jdillick/FuelSDK-PHP/zipball/26cf5f9cade51326e0c8cb35964a66654885c8f2",
+                "reference": "26cf5f9cade51326e0c8cb35964a66654885c8f2",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-openssl": "*",
+                "ext-soap": "*",
+                "php": ">=5.2.3"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "ET_Client.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "ExactTarget Fuel SDK for PHP",
+            "homepage": "https://code.exacttarget.com/apis-sdks/fuel-sdks/",
+            "time": "2015-01-29 14:41:59"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
