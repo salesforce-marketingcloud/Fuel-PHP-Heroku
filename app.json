@@ -1,0 +1,13 @@
+{
+  "name": "Salesforce Fuel for PHP",
+  "description": "Salesforce Marketing Cloud Fuel's PHP SDK",
+  "repository": "https://github.com/salesforcefuel/Fuel-PHP-Heroku.git",
+  "logo": "http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/Salesforce_Marketing_Cloud.png",
+  "keywords": [
+    "salesforce",
+    "fuel",
+    "node"
+  ],
+  "addons": [],
+  "env": {}
+}
