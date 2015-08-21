@@ -9,7 +9,7 @@
     <table width="100%">
       <tr>
         <td bgcolor="#7C868D" height="150" width="100%">
-          <table align="center" width="75%">
+          <table align="left" width="75%">
             <tr>
               <td align="left"><img src="http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/SFMC_logo.png" style="width: 50%;"></td>
             </tr>
@@ -31,12 +31,10 @@
       <tr>
         <td align="center">This application contains Salesforce Marketing Cloud's Fuel PHP SDK, and provides seamless access to our API services (including REST and SOAP).</td>
       </tr>
-      <br>
-      <br>
       <tr>
         <td align="center">Learn more about our Fuel SDKs along with documentation and examples:</td>
+        <br>
       </tr>
-      
       <tr>
         <td align="center"><a target="_blank" href="https://code.exacttarget.com/apis-sdks/fuel-sdks/">Salesforce Marketing Cloud's Fuel SDKs</a></td>
       </tr>
